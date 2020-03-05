@@ -1,0 +1,121 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Glove_Opacity.png
+map_Kd GraceCombat-OBJ_Glove_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Glove_Normal.png
+map_Ks GraceCombat-OBJ_Glove_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Glove_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Shoes_Opacity.png
+map_Kd GraceCombat-OBJ_Shoes_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Shoes_Normal.png
+map_Ks GraceCombat-OBJ_Shoes_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Shoes_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Hair_Opacity.png
+map_Kd GraceCombat-OBJ_Hair_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Hair_Normal.png
+map_Ks GraceCombat-OBJ_Hair_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Hair_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Top_Opacity.png
+map_Kd GraceCombat-OBJ_Top_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Top_Normal.png
+map_Ks GraceCombat-OBJ_Top_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Top_Gloss.png
+
+newmtl Hat
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Hat_Opacity.png
+map_Kd GraceCombat-OBJ_Hat_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Hat_Normal.png
+map_Ks GraceCombat-OBJ_Hat_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Hat_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Body_Opacity.png
+map_Kd GraceCombat-OBJ_Body_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Body_Normal.png
+map_Ks GraceCombat-OBJ_Body_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Body_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCombat-OBJ_Bottom_Opacity.png
+map_Kd GraceCombat-OBJ_Bottom_Diffuse.png
+adobe_map_normal GraceCombat-OBJ_Bottom_Normal.png
+map_Ks GraceCombat-OBJ_Bottom_Specular.png
+adobe_map_shininess GraceCombat-OBJ_Bottom_Gloss.png
+
