@@ -17,23 +17,6 @@ adobe_map_normal DaniDefault-OBJ_Top_Normal.png
 map_Ks DaniDefault-OBJ_Top_Specular.png
 adobe_map_shininess DaniDefault-OBJ_Top_Gloss.png
 
-newmtl Bottom
-illum 4 
-Kd 1.00 1.00 1.00 
-Tf 1.00 1.00 1.00 
-Ni 1.00 
-Ks 1.00 1.00 1.00 
-Ns 512 
-adobe_reflectivity 0.04 
-adobe_bump_strength 0.0 
-d 1.0 
-
-map_d DaniDefault-OBJ_Bottom_Opacity.png
-map_Kd DaniDefault-OBJ_Bottom_Diffuse.png
-adobe_map_normal DaniDefault-OBJ_Bottom_Normal.png
-map_Ks DaniDefault-OBJ_Bottom_Specular.png
-adobe_map_shininess DaniDefault-OBJ_Bottom_Gloss.png
-
 newmtl Shoes
 illum 4 
 Kd 1.00 1.00 1.00 
@@ -67,6 +50,23 @@ map_Kd DaniDefault-OBJ_Hair_Diffuse.png
 adobe_map_normal DaniDefault-OBJ_Hair_Normal.png
 map_Ks DaniDefault-OBJ_Hair_Specular.png
 adobe_map_shininess DaniDefault-OBJ_Hair_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d DaniDefault-OBJ_Bottom_Opacity.png
+map_Kd DaniDefault-OBJ_Bottom_Diffuse.png
+adobe_map_normal DaniDefault-OBJ_Bottom_Normal.png
+map_Ks DaniDefault-OBJ_Bottom_Specular.png
+adobe_map_shininess DaniDefault-OBJ_Bottom_Gloss.png
 
 newmtl Body
 illum 4 
