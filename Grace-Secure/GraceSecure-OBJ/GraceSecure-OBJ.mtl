@@ -17,6 +17,23 @@ adobe_map_normal GraceSecure-OBJ_Shoes_Normal.png
 map_Ks GraceSecure-OBJ_Shoes_Specular.png
 adobe_map_shininess GraceSecure-OBJ_Shoes_Gloss.png
 
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceSecure-OBJ_Top_Opacity.png
+map_Kd GraceSecure-OBJ_Top_Diffuse.png
+adobe_map_normal GraceSecure-OBJ_Top_Normal.png
+map_Ks GraceSecure-OBJ_Top_Specular.png
+adobe_map_shininess GraceSecure-OBJ_Top_Gloss.png
+
 newmtl Hair
 illum 4 
 Kd 1.00 1.00 1.00 
@@ -50,23 +67,6 @@ map_Kd GraceSecure-OBJ_Bottom_Diffuse.png
 adobe_map_normal GraceSecure-OBJ_Bottom_Normal.png
 map_Ks GraceSecure-OBJ_Bottom_Specular.png
 adobe_map_shininess GraceSecure-OBJ_Bottom_Gloss.png
-
-newmtl Top
-illum 4 
-Kd 1.00 1.00 1.00 
-Tf 1.00 1.00 1.00 
-Ni 1.00 
-Ks 1.00 1.00 1.00 
-Ns 512 
-adobe_reflectivity 0.04 
-adobe_bump_strength 0.0 
-d 1.0 
-
-map_d GraceSecure-OBJ_Top_Opacity.png
-map_Kd GraceSecure-OBJ_Top_Diffuse.png
-adobe_map_normal GraceSecure-OBJ_Top_Normal.png
-map_Ks GraceSecure-OBJ_Top_Specular.png
-adobe_map_shininess GraceSecure-OBJ_Top_Gloss.png
 
 newmtl Hat
 illum 4 
