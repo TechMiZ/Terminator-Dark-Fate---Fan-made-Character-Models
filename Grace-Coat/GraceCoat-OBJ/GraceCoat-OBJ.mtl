@@ -17,6 +17,23 @@ adobe_map_normal GraceCoat-OBJ_Hair_Normal.png
 map_Ks GraceCoat-OBJ_Hair_Specular.png
 adobe_map_shininess GraceCoat-OBJ_Hair_Gloss.png
 
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCoat-OBJ_Bottom_Opacity.png
+map_Kd GraceCoat-OBJ_Bottom_Diffuse.png
+adobe_map_normal GraceCoat-OBJ_Bottom_Normal.png
+map_Ks GraceCoat-OBJ_Bottom_Specular.png
+adobe_map_shininess GraceCoat-OBJ_Bottom_Gloss.png
+
 newmtl Shoes
 illum 4 
 Kd 1.00 1.00 1.00 
@@ -50,23 +67,6 @@ map_Kd GraceCoat-OBJ_Top_Diffuse.png
 adobe_map_normal GraceCoat-OBJ_Top_Normal.png
 map_Ks GraceCoat-OBJ_Top_Specular.png
 adobe_map_shininess GraceCoat-OBJ_Top_Gloss.png
-
-newmtl Bottom
-illum 4 
-Kd 1.00 1.00 1.00 
-Tf 1.00 1.00 1.00 
-Ni 1.00 
-Ks 1.00 1.00 1.00 
-Ns 512 
-adobe_reflectivity 0.04 
-adobe_bump_strength 0.0 
-d 1.0 
-
-map_d GraceCoat-OBJ_Bottom_Opacity.png
-map_Kd GraceCoat-OBJ_Bottom_Diffuse.png
-adobe_map_normal GraceCoat-OBJ_Bottom_Normal.png
-map_Ks GraceCoat-OBJ_Bottom_Specular.png
-adobe_map_shininess GraceCoat-OBJ_Bottom_Gloss.png
 
 newmtl Body
 illum 4 
