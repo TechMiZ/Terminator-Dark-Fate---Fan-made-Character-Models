@@ -1,6 +1,6 @@
 # Exported from Fuse 2017.1.0
 
-newmtl Hair
+newmtl Hat
 illum 4 
 Kd 1.00 1.00 1.00 
 Tf 1.00 1.00 1.00 
@@ -11,28 +11,11 @@ adobe_reflectivity 0.04
 adobe_bump_strength 0.0 
 d 1.0 
 
-map_d GraceCoatHat-OBJ_Hair_Opacity.png
-map_Kd GraceCoatHat-OBJ_Hair_Diffuse.png
-adobe_map_normal GraceCoatHat-OBJ_Hair_Normal.png
-map_Ks GraceCoatHat-OBJ_Hair_Specular.png
-adobe_map_shininess GraceCoatHat-OBJ_Hair_Gloss.png
-
-newmtl Shoes
-illum 4 
-Kd 1.00 1.00 1.00 
-Tf 1.00 1.00 1.00 
-Ni 1.00 
-Ks 1.00 1.00 1.00 
-Ns 512 
-adobe_reflectivity 0.04 
-adobe_bump_strength 0.0 
-d 1.0 
-
-map_d GraceCoatHat-OBJ_Shoes_Opacity.png
-map_Kd GraceCoatHat-OBJ_Shoes_Diffuse.png
-adobe_map_normal GraceCoatHat-OBJ_Shoes_Normal.png
-map_Ks GraceCoatHat-OBJ_Shoes_Specular.png
-adobe_map_shininess GraceCoatHat-OBJ_Shoes_Gloss.png
+map_d GraceCoatHat-OBJ_Hat_Opacity.png
+map_Kd GraceCoatHat-OBJ_Hat_Diffuse.png
+adobe_map_normal GraceCoatHat-OBJ_Hat_Normal.png
+map_Ks GraceCoatHat-OBJ_Hat_Specular.png
+adobe_map_shininess GraceCoatHat-OBJ_Hat_Gloss.png
 
 newmtl Top
 illum 4 
@@ -51,6 +34,23 @@ adobe_map_normal GraceCoatHat-OBJ_Top_Normal.png
 map_Ks GraceCoatHat-OBJ_Top_Specular.png
 adobe_map_shininess GraceCoatHat-OBJ_Top_Gloss.png
 
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d GraceCoatHat-OBJ_Shoes_Opacity.png
+map_Kd GraceCoatHat-OBJ_Shoes_Diffuse.png
+adobe_map_normal GraceCoatHat-OBJ_Shoes_Normal.png
+map_Ks GraceCoatHat-OBJ_Shoes_Specular.png
+adobe_map_shininess GraceCoatHat-OBJ_Shoes_Gloss.png
+
 newmtl Bottom
 illum 4 
 Kd 1.00 1.00 1.00 
@@ -68,7 +68,7 @@ adobe_map_normal GraceCoatHat-OBJ_Bottom_Normal.png
 map_Ks GraceCoatHat-OBJ_Bottom_Specular.png
 adobe_map_shininess GraceCoatHat-OBJ_Bottom_Gloss.png
 
-newmtl Hat
+newmtl Hair
 illum 4 
 Kd 1.00 1.00 1.00 
 Tf 1.00 1.00 1.00 
@@ -79,11 +79,11 @@ adobe_reflectivity 0.04
 adobe_bump_strength 0.0 
 d 1.0 
 
-map_d GraceCoatHat-OBJ_Hat_Opacity.png
-map_Kd GraceCoatHat-OBJ_Hat_Diffuse.png
-adobe_map_normal GraceCoatHat-OBJ_Hat_Normal.png
-map_Ks GraceCoatHat-OBJ_Hat_Specular.png
-adobe_map_shininess GraceCoatHat-OBJ_Hat_Gloss.png
+map_d GraceCoatHat-OBJ_Hair_Opacity.png
+map_Kd GraceCoatHat-OBJ_Hair_Diffuse.png
+adobe_map_normal GraceCoatHat-OBJ_Hair_Normal.png
+map_Ks GraceCoatHat-OBJ_Hair_Specular.png
+adobe_map_shininess GraceCoatHat-OBJ_Hair_Gloss.png
 
 newmtl Body
 illum 4 
